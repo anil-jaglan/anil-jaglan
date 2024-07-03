@@ -1,7 +1,6 @@
 ## Hello there, I’m Anil Jaglan 👋
 
  [![Linkedin Badge](https://img.shields.io/badge/-Anil%20Jaglan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aniljaglan/)](https://www.linkedin.com/in/aniljaglan/)
- [![Gmail Badge](https://img.shields.io/badge/-trust.jaglan@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:trust.jaglan@gmail.com)](mailto:trust.jaglan@gmail.com)
  | <img src="https://visitor-badge.glitch.me/badge?page_id=anil-jaglan.anil-jaglan"/>
 
 I speak Java, I am Solution Architect, Mentor and Reactive programmer. 
